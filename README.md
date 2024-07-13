@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chanakanissanka
-- 👀 I’m interested in Cloud and CI/CD at scale
-- 🌱 I’m currently developing cloud at scale projects with IaC
+- 👀 I’m interested in Public Cloud and CI/CD at scale
+- 🌱 I’m currently developing cloud-at-scale projects with IaC
 - 💞️ I’m looking to collaborate on cloud deployments
 - 📫 @chanaka_n
 - Quality software for a better future
